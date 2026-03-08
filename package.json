@@ -1,0 +1,1 @@
+{"name": "slitherjoseph.io", "version": "1.0.0", "description": "Multiplayer Slither.io-style snake game with WebSocket support", "main": "server.js", "scripts": {"start": "node server.js"}, "keywords": ["game", "slither", "snake", "multiplayer", "websocket"], "author": "josephgreuzat", "license": "MIT", "engines": {"node": ">=24.0.0"}, "dependencies": {"ws": "^8.14.0"}}
