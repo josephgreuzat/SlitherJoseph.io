@@ -1,0 +1,17 @@
+# Node.js
+
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log
+
+# system files
+.DS_Store
+
+# environment variables
+.env
+
+# build directories
+/dist/
+/build/
